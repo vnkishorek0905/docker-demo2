@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kishore</groupId>
-	<artifactId>docker-demo2</artifactId>
+	<artifactId>docker.demo2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>docker-demo2</name>
 	<description>Demo project for Spring Boot</description>
@@ -46,7 +46,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker-demo2</finalName>
+		<finalName>docker.demo2</finalName>
 	</build>
 
 </project>

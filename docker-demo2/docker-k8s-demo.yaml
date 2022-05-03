@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: docker-k8s-demo
-        image:
+        image: vnkishorek/docker.demo2
         ports:
         - containerPort: 8080
